@@ -1,16 +1,8 @@
 # shop_ecom_app
 
-A new Flutter project.
+A  Flutter project for 3rd Semester MCA.
+![Screenshot_1701073857](https://github.com/user-attachments/assets/8f5470fa-bab0-48a4-aa32-e5d2db36016e)
+![Uploading Search Screen.png…]()
+![Uploading wishlist screen.png…]()
+![Uploading Product Screen.png…]()
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

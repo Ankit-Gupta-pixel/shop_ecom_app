@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980816489915",
+    "project_id": "shopnear-2eed1",
+    "storage_bucket": "shopnear-2eed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980816489915:android:40c3733c417a8c0ed2689e",
+        "android_client_info": {
+          "package_name": "com.example.shop_ecom_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTxARIBct_sq5Ao9k0nl4sUUYXhzjEt-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
